@@ -1,6 +1,68 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Employee Management 
+
+# project-documentation
+
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px height=200px src="swag.png" alt="Project logo"></a>
+</p>
+
+
+
+<h3 align="center">Employee Management</h3>
+
+---
+
+<p align="center">
+ This project is related to employee management where users can create, read, update and delete employee details.
+    <br/> 
+</p> 
+
+## 📝 Table of Contents
+- [About](#about)
+- [Getting Started](#getting_started)
+- [Usage](#usage)
+- [Flow Chart](#flowchart)
+- [TODO](../TODO.md)
+- [Contributing](../CONTRIBUTING.md)
+- [Authors](#authors)
+- [Acknowledgments](#acknowledgement)
+
+## 🧐 About <a name = "about"></a>
+Fully Functional E-commerce website About This is use for manage details of employee you can Insert data of employee and update data delete data read data and delete data this is responsive project I have use In this pojecdt and Html Css Reactjs and bootstrap for frontend and for backend create spring api using java and sql database
+
+## 🏁 Getting Started <a name = "getting_started"></a>
+
+
+
+
+# Employee Management System
+
+This project is an Employee Management System built with Spring API and React. It allows users to perform CRUD operations on employee data.
+
+## Technologies Used
+
+* Spring API
+* React
+* JavaScript
+* HTML/CSS
+
+
+### Prerequisites
+## Installation and Setup
+
+1. Clone the repository to your local machine.
+2. Open the `backend` folder in an IDE like Eclipse or VS Code.
+3. Run the backend project on server `http://localhost:8085`.
+4. Open the `frontend` folder in a code editor of your choice.
+5. Run the following command in the terminal: 
+
+6. Once the installation is complete, run the following command to start the frontend server: 
+
+
+7. Open your browser and navigate to `http://localhost:3000` to view the Employee Management System.
 
 ## Available Scripts
 
@@ -11,13 +73,10 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+See the section about [running tests](https://create-react-app.dev/docs/running-tests/) for more information.
 
 ### `npm run build`
 
@@ -27,44 +86,59 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about [deployment](https://create-react-app.dev/docs/deployment/) for more information.
 
-### `npm run eject`
+## License
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+#Usage
+Provide instructions on how to use your project. Mention any specific commands or endpoints that the user needs to know about.
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+=======
+>>>>>>> ccb3ef98e38119bc8d4d95dd9750ea018ced0479
+## 🎈 Usage <a name="usage"></a>
+Add notes about how to use the system.
 
-### Analyzing the Bundle Size
+## 🚀 Deployment <a name = "deployment"></a>
+Add additional notes about how to deploy this on a live system.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## ⛏️ Flow Chart <a name = "flowchart">
+![image](https://user-images.githubusercontent.com/86216867/235081349-51b9921c-52ac-4f69-b4b1-21bd031974c7.png)
+               
 
-### Making a Progressive Web App
+</a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![bg width:1000px](./swagindiaflowchart.png)
 
-### Advanced Configuration
+- [MongoDB](https://www.mongodb.com/) - Database
+- [Express](https://expressjs.com/) - Server Framework
+- [VueJs](https://vuejs.org/) - Web Framework
+- [NodeJs](https://nodejs.org/en/) - Server Environment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## ✍️ Authors <a name = "authors"></a>
+- [@Sundaram Umar vaishya](https://github.com/kylelobo) - FSD
 
-### Deployment
+See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 🎉 Acknowledgements <a name = "acknowledgement"></a>
+- Hat tip to anyone whose code was used
+- Inspiration
+  
+- References
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+
+
