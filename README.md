@@ -2,6 +2,12 @@
 
 # Employee Management 
 
+![image](https://user-images.githubusercontent.com/86216867/235084303-c69d6a7b-9327-4935-a263-8aa0d7261bd4.png)
+![image](https://user-images.githubusercontent.com/86216867/235084419-4ac26e8c-4000-4c70-a193-99b7fe7e573f.png)
+![image](https://user-images.githubusercontent.com/86216867/235084432-a3dc4d7a-c7d2-4143-96b0-29b6673fb418.png)
+![image](https://user-images.githubusercontent.com/86216867/235084485-be83f24d-2c90-4965-9a59-cbe7ae4ff305.png)
+
+
 # project-documentation
 
 <p align="center">
@@ -92,6 +98,8 @@ See the section about [deployment](https://create-react-app.dev/docs/deployment/
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
+
+## Backend 
 
 
 
